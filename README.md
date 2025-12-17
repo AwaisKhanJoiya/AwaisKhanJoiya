@@ -2,7 +2,6 @@
 <h3 align="center">Senior Software Engineer | Full-Stack Developer | Cloud-Native Enthusiast</h3>
 
 <p align="center">
- # <a href="https://ammarbinshakir.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:khanawaisjoiya@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/the-awais-khan/" target="_blank">💼 LinkedIn</a>
 </p>
