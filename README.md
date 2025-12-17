@@ -2,13 +2,13 @@
 <h3 align="center">Senior Software Engineer | Full-Stack Developer | Cloud-Native Enthusiast</h3>
 
 <p align="center">
-  <a href="https://ammarbinshakir.vercel.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="mailto:ammarbinshakir557@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/ammarbinshakir/" target="_blank">💼 LinkedIn</a>
+ # <a href="https://ammarbinshakir.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="mailto:khanawaisjoiya@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/the-awais-khan/" target="_blank">💼 LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammarbinshakir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AwaisKhanJoiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
